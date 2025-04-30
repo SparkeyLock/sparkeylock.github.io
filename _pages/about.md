@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-<font size="5">**WELCOME!**</font>
+<span style="font-size:28px; font-weight:bold">WELCOME!</span>
 
 I graduated with a degree in Landscape Architecture from Guangzhou University. From 2018 to 2020, I served as a research assistant at the Road and Bridge Engineering Institute, School of Civil Engineering, Guangzhou University. Currently, I'm working as a landscape design intern at the Architectural Design and Research Institute of Guangzhou University.
 
