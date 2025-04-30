@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "SparkeyLock's Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "SparkeyLock"
 description              : &description "Undergraduate student in Landscape Architecture at Guangzhou University, focusing on urban environment studies and AI-assisted urban planning & design."
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Luo Jin'an" 
-  bio              : "Graduated with a Bachelor's degree in Landscape Architecture from Guangzhou University. Currently serving as a landscape design intern at the Architectural Design Institute of Guangzhou University."
+  bio              : "Graduated with a Bachelor's degree in Landscape Architecture from Guangzhou University."
   location         : "Guangzhou, China"
   employer         : "Guangzhou University"
   email            : "SparkeyLock@outlook.com" 
