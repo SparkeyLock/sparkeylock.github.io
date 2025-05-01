@@ -289,8 +289,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: false
+      share: false
+      show_excerpt: false
 
 
 # Sass/SCSS
@@ -314,6 +314,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-i18n  # 确保没有启用本地化插件
 
 # Mimic GitHub Pages with --safe
 whitelist:
