@@ -52,7 +52,9 @@
             {% if post.date %}
               <p class="page__date">
                 <i class="fa fa-camera" aria-hidden="true"></i>
-                {{ post.date | date: "%Y年%m月%d日" }}
+                <time datetime="{{ post.date | date_to_xmlschema }}">
+                  {{ post.date | date: "%B %d, %Y" }}
+                </time>
               </p>
             {% endif %}
           </div>
