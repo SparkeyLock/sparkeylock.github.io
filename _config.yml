@@ -224,8 +224,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   photography:
-    output: true
-    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -352,3 +350,13 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+# Watermark Settings
+watermark:
+  enable: true            # 全局开关
+  text: "© {{ site.author.name }}"  # 动态作者名
+  target_paths:           # 指定加水印的目录
+    - "/images/portfolio/"
+    - "/images/photography/"
+  opacity: 0.6            # 透明度(0-1)

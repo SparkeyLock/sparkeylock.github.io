@@ -19,3 +19,46 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<script>
+// 仅对特定目录图片加水印
+const WATERMARK_CONFIG = {
+  text: '© {{ site.author.name }}',  // 动态用户名
+  targetPaths: ['/images/portfolio/', '/images/photography/'],
+  fontSize: '14px',
+  opacity: 0.6,
+  margin: 15
+};
+
+function applyWatermark() {
+  document.querySelectorAll('img').forEach(img => {
+    const shouldMark = WATERMARK_CONFIG.targetPaths.some(path => 
+      img.src.includes(path) && 
+      !img.classList.contains('no-watermark')
+    );
+    
+    if(shouldMark) {
+      const canvas = document.createElement('canvas');
+      const ctx = canvas.getContext('2d');
+      img.onload = function() {
+        canvas.width = this.naturalWidth;
+        canvas.height = this.naturalHeight;
+        ctx.drawImage(this, 0, 0);
+        ctx.font = `${WATERMARK_CONFIG.fontSize} sans-serif`;
+        ctx.fillStyle = `rgba(0,0,0,${WATERMARK_CONFIG.opacity})`;
+        ctx.textAlign = 'right';
+        ctx.textBaseline = 'bottom';
+        ctx.fillText(
+          WATERMARK_CONFIG.text,
+          canvas.width - WATERMARK_CONFIG.margin,
+          canvas.height - WATERMARK_CONFIG.margin
+        );
+        img.src = canvas.toDataURL('image/jpeg', 0.9);
+      };
+    }
+  });
+}
+
+// 延迟500ms执行避免阻塞渲染
+setTimeout(applyWatermark, 500);
+</script>
