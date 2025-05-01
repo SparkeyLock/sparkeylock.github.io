@@ -10,11 +10,11 @@ redirect_from:
 ## Education
 
 * B.Eng. in Landscape Architecture, Guangzhou University, 2019-2024. (Transferred)
-  > Average Mark:78/100  
-  > Core Courses: Landscape Architecture Planning and Design, Principles Of Urban Green Space Planning&Design, Urban Management, Thermodynamics Prototype of Lingnan Architecture, Garden Engineering, Digital Architectural Design,  Principles Of Urban Planning, Landscape Architecture Innovation Research.
+  > <span style="font-style:normal">Average Mark:78/100</span>  
+  > <span style="font-style:normal">Core Courses: Landscape Architecture Planning and Design, Principles Of Urban Green Space Planning&Design, Urban Management, Thermodynamics Prototype of Lingnan Architecture, Garden Engineering, Digital Architectural Design,  Principles Of Urban Planning, Landscape Architecture Innovation Research.</span>
 * B.Eng. in Civil Engineering, Guangzhou University, 2017-2019.
-  > Average Mark:80/100  
-  > Core Courses: Engineering Geology, Principles of Architecture, Electrical and Electronics Engineering, Mechanics of Materials, Measuration, C Program Design.
+  > <span style="font-style:normal">Average Mark:80/100</span>  
+  > <span style="font-style:normal">Core Courses: Engineering Geology, Principles of Architecture, Electrical and Electronics Engineering, Mechanics of Materials, Measuration, C Program Design.</span>
 
 ## Work experience
 
