@@ -1,7 +1,7 @@
 ---
 title: "The 15th China International Aviation and Aerospace Exhibition"
 date: 2024-11-18
-excerpt: "I visited the Zhuhai International Air Show and took some stunning photos.<br/><img src='/images/photography/20241118/DSC00972_thumb.jpg'>"
+excerpt: "I visited the Zhuhai International Air Show and took some stunning photos.<br/><img src='/images/photography/20241118/DSC00972.jpg'>"
 collection: photography
 ---
 
@@ -9,25 +9,25 @@ My friend and I visited the Zhuhai International Air Show. We are enthusiasts so
 BTW, I used a sony α6700 and the 16-50mm f/2.8 lens.
 
 ![Photo 1](/images/photography/20241118/DSC00972.jpg)
-> <span style="font-style:normal">Z-10 armed helicopter  
-> ISO-125 1/800 f/8</span>
+> <span style="font-style:normal">Z-10 armed helicopter</span>  
+> <span style="font-style:normal">ISO-125 1/800 f/8</span>
 
 ![Photo 2](/images/photography/20241118/DSC00969.jpg)
-> <span style="font-style:normal">Z-8L transport helicopter  
-> ISO-100 1/800 f/8</span>
+> <span style="font-style:normal">Z-8L transport helicopter</span>  
+> <span style="font-style:normal">ISO-100 1/800 f/8</span>
 
 ![Photo 3](/images/photography/20241118/DSC00981.jpg)
-> <span style="font-style:normal">Z-20 multipurpose helicopter  
-> ISO-125 1/800 f/9</span>
+> <span style="font-style:normal">Z-20 multipurpose helicopter</span>  
+> <span style="font-style:normal">ISO-125 1/800 f/9</span>
 
 ![Photo 4](/images/photography/20241118/DSC00965.jpg)
-> <span style="font-style:normal">Y-9 airfreighter  
-> ISO-100 1/800 f/8</span>
+> <span style="font-style:normal">Y-9 airfreighter</span>  
+> <span style="font-style:normal">ISO-100 1/800 f/8</span>
 
 ![Photo 5](/images/photography/20241118/DSC00992.jpg)
-> <span style="font-style:normal">J-16 multirole fighter  
-> ISO-100 1/800 f/8</span>
+> <span style="font-style:normal">J-16 multirole fighter</span>  
+> <span style="font-style:normal">ISO-100 1/800 f/8</span>
 
 ![Photo 6](/images/photography/20241118/DSC01003.jpg)
-> <span style="font-style:normal">J-10 Fighter  
-> ISO-100 1/800 f/8</span>
+> <span style="font-style:normal">J-10 Fighter</span>  
+> <span style="font-style:normal">ISO-100 1/800 f/8</span>
