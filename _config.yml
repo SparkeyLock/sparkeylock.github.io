@@ -226,9 +226,6 @@ collections:
   photography:
     output: true
     permalink: /:collection/:path/
-  your_new_collection:
-    output: true
-    permalink: /your-new-collection/:name/
 
 
 # These settings control how pages and collections are included in the site
