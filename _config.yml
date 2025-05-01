@@ -288,9 +288,7 @@ defaults:
       type: photography
     values:
       layout: single
-      author_profile: true
-      share: false
-      show_excerpt: false
+      show_date: true
 
 
 # Sass/SCSS
@@ -315,6 +313,9 @@ plugins:
   - jekyll-redirect-from
   - jemoji
   - jekyll-i18n  # 确保没有启用本地化插件
+i18n:
+  locale: en-US
+  date_format: "%B %d, %Y"  # November 18, 2024
 
 # Mimic GitHub Pages with --safe
 whitelist:

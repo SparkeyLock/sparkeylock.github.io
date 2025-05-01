@@ -3,10 +3,6 @@ layout: archive
 title: "Photography"
 permalink: /photography/
 author_profile: true
-excerpt: "My photography collection"
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
 ---
 
 {% include base_path %}
