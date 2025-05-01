@@ -2,6 +2,7 @@
 title: "The 15th China International Aviation and Aerospace Exhibition"
 date: 2024-11-18
 excerpt: "I visited the Zhuhai International Air Show and took some stunning photos.<br/><img src='/images/photography/20241118/DSC00972.jpg'>"
+layout: photography
 collection: photography
 ---
 
