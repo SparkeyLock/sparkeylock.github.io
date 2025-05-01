@@ -287,8 +287,10 @@ defaults:
       path: "_photography"
       type: photography
     values:
-      layout: photography
+      layout: single
       author_profile: true
+      share: true
+      comments: false
 
 
 # Sass/SCSS
