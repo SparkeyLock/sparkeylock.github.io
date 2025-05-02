@@ -284,11 +284,13 @@ defaults:
       share: true
   # _photography
   - scope:
-      path: "_photography"
+      path: ""
       type: photography
     values:
       layout: single
-      show_date: true
+      author_profile: true
+      share: true
+      comment: true
 
 
 # Sass/SCSS
