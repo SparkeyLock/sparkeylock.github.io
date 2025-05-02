@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /year-archive/
 title: "Blog posts"
+permalink: /year-archive/
 author_profile: false
 redirect_from:
   - /wordpress/blog-posts/
@@ -9,12 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    ## {{ year }}
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
+{% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+{% for post in sorted_posts %}
   {% include archive-single.html %}
 {% endfor %}
