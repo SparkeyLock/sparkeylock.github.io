@@ -225,7 +225,7 @@ collections:
     permalink: /:collection/:path/
   photography:
     output: true
-    permalink: /:collection/:path/
+    permalink: /photography/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:

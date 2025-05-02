@@ -1,0 +1,16 @@
+---
+layout: archive
+permalink: /photography/tags/:title/
+title: "Photography Tags: {{ page.tag }}"
+author_profile: false
+---
+
+{% include base_path %}
+
+<h1>「{{ page.tag }}」Photos by category</h1>
+
+{% for post in site.photography %}
+  {% if post.tags contains page.tag %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
