@@ -324,7 +324,7 @@ whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+  - # jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
@@ -374,3 +374,6 @@ watermark:
     - "/images/portfolio/"
     - "/images/photography/"
   opacity: 0.6            # 透明度(0-1)
+
+sitemap: 
+  enabled: false
