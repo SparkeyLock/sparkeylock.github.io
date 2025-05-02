@@ -9,5 +9,5 @@ author_profile: true
 
 {% assign sorted_photography = site.photography | sort: 'date' | reverse %}
 {% for post in sorted_photography %}
-  {% include archive-single.html show_excerpt=false %}
+  {% include archive-single.html %}
 {% endfor %}
