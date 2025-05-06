@@ -9,7 +9,8 @@ author_profile: false
 You can't find them during the day.  
 But at night, they appear, take your wallet and feed you.  
 
-> Camera: sony ZV-E10 | Lens: sony SEL18135
+> Camera: SONY ZV-E10  
+> Lens: SONY SEL18135  
 
 <div style="text-align:center; margin:20px 0">
   <img src="/images/photography/20240317/DSC00014.jpg" 

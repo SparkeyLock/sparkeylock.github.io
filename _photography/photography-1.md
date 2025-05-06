@@ -10,7 +10,8 @@ author_profile: false
 
 My friend and I visited the Zhuhai International Air Show. We are enthusiasts so we are familiar with some of the exhibits. We watched some spectacular flying displays this morning. Because there were so many people visiting, I only had a limited time to take out my camera to take pictures.  
 
-> Camera: sony α6700 | Lens: sony SAL1650
+> Camera: SONY α6700  
+> Lens: SONY SAL1650
 
 <div style="text-align:center; margin:20px 0">
   <img src="/images/photography/20241118/DSC00972.jpg" 
