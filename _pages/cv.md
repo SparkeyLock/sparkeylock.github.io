@@ -7,16 +7,16 @@ redirect_from:
   - /resume
 ---
 
-# Education
+<h2 style="border-bottom: 1px solid #ddd; padding-bottom: 0.3em; font-size: 1.8em;">Education</h2>
 
 * B.Eng. in Landscape Architecture, Guangzhou University, 2019-2024. (changed major)
-  > <span style="font-style:normal">Average Mark:79/100</span>  
-  > <span style="font-style:normal">Core Courses: Landscape Architecture Planning and Design, Principles Of Urban Green Space Planning&Design, Urban Management, Thermodynamics Prototype of Lingnan Architecture, Garden Engineering, Digital Architectural Design,  Principles Of Urban Planning, Landscape Architecture Innovation Research.</span>
+  * Average Mark:79/100</span>  
+  * Core Courses: Landscape Architecture Planning and Design, Principles Of Urban Green Space Planning&Design, Urban Management, Thermodynamics Prototype of Lingnan Architecture, Garden Engineering, Digital Architectural Design,  Principles Of Urban Planning, Landscape Architecture Innovation Research.</span>
 * B.Eng. in Civil Engineering, Guangzhou University, 2017-2019.
-  > <span style="font-style:normal">Average Mark:80/100</span>  
-  > <span style="font-style:normal">Core Courses: Engineering Geology, Principles of Architecture, Electrical and Electronics Engineering, Mechanics of Materials, Measuration, C Program Design.</span>
+  * Average Mark:80/100</span>  
+  * Core Courses: Engineering Geology, Principles of Architecture, Electrical and Electronics Engineering, Mechanics of Materials, Measuration, C Program Design.</span>
 
-# Work Experience
+<h2 style="border-bottom: 1px solid #ddd; padding-bottom: 0.3em; font-size: 1.8em;">Work Experience</h2>
 
 <div style="margin-left: 1.5em;">
   <div style="display: flex; justify-content: space-between; align-items: baseline;">
@@ -42,7 +42,7 @@ redirect_from:
   * Used surveying equipment to conduct field surveys, participated in compilation survey results in PanyuDistrict and Huangpu District
   * Conducted UAV-based POI surveys and LiDAR data integration for urban renewal projects in Panyu District
 
-# Research Experience
+<h2 style="border-bottom: 1px solid #ddd; padding-bottom: 0.3em; font-size: 1.8em;">Research Experience</h2>
 
 <div style="margin-left: 1.5em;">
   <div style="display: flex; justify-content: space-between; align-items: baseline;">
@@ -82,7 +82,7 @@ redirect_from:
   * Discovered liquid water's stronger aging impact than vapor phase.
   * Established FTIR spectral fingerprint system for water-induced asphalt aging.
   
-# Project Experience
+<h2 style="border-bottom: 1px solid #ddd; padding-bottom: 0.3em; font-size: 1.8em;">Project Experience</h2>
 
 * Feb. 2018- Nov. 2020: Investigation of Water Aging Resistance Properties in Evotherm warm mix rubber asphalt
   * Role: Principal Investigator  
@@ -97,7 +97,7 @@ redirect_from:
     * Open Sharing Fund for Large Equipment of Guangzhou University (GZ [2018] No. 120).
     * Guangzhou University undergraduate training program for innovation and entrepreneurship (201811078121).
 
-# Publications
+<h2 style="border-bottom: 1px solid #ddd; padding-bottom: 0.3em; font-size: 1.8em;">Publications</h2>
 
 * Liu Y., Yang G., **Luo J.**, Bi Y., Xu J., Huang Z., Li W., & Lan T.(2019).Effect of Different Thermal-Oxygen-Water Aging Conditions on the Properties of Evotherm Warm Mixed Rubber Asphalt. Highway, (08),188-193.  
 
@@ -105,6 +105,6 @@ redirect_from:
 
 * Yang,G.,**Luo,J.**,Bi,Y.,Xu,J.,Liu,Y. & Chen,Q. (2020). Aging characteristics and infrared spectrum analysis of Evotherm warm mix rubber asphalt. Synthetic Rubber Industry, (05),366-370.  
   
-# Service and leadership
+<h2 style="border-bottom: 1px solid #ddd; padding-bottom: 0.3em; font-size: 1.8em;">Service and leadership</h2>
 
 * Currently signed in to 43 different slack teams
