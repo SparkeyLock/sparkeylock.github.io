@@ -1,6 +1,6 @@
 ---
 title: "Guangzhou food stalls at night"
-date: 2024-03-17
+date: 2021-01-01
 excerpt: "There are many food stalls on the way home at night.<br/><img src='/images/photography/20240317/DSC00018.jpg'>"
 collection: photography
 author_profile: false
