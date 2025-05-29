@@ -314,13 +314,15 @@ plugins:
   - jekyll-redirect-from
   - jemoji
 
-# Mimic GitHub Pages with --safe
-whitelist:
+# 添加安全限制
+whitelist: &whitelist
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
   - jekyll-redirect-from
   - jemoji
+
+safe: true
 
 
 # Archives

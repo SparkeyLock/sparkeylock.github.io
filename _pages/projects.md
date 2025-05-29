@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Projects"
+permalink: /projects/
 author_profile: false
 ---
 
 {% include base_path %}
 
-{% assign sorted_portfolio = site.portfolio | sort: 'date' | reverse %}
-{% for post in sorted_portfolio %}
-  {% include archive-single.html %}
+{% for post in site.projects %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <p>{{ post.excerpt }}</p>
 {% endfor %}
