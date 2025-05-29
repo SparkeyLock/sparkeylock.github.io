@@ -1,8 +1,8 @@
 ---
-title: "test 2"
-date: 2023-01-01
-excerpt: "Short description of portfolio item number 2"
-collection: portfolio
+title: "test 3"
+date: 2024-01-01
+excerpt: "<img src='/images/500x300.png'>"
+collection: projects
 author_profile: false
 ---
 
