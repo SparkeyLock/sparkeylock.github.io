@@ -311,10 +311,9 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - # jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-  - jekyll-i18n  # 确保没有启用本地化插件
+# - jekyll-i18n  # 确保注释掉非标准插件
 i18n:
   locale: en-US
   date_format: "%B %d, %Y"  # November 18, 2024
@@ -324,7 +323,6 @@ whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - # jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
