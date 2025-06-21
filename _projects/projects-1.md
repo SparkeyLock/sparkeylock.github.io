@@ -1,7 +1,7 @@
 ---
 title: "Project 1 - Study of water aging mechanism of warm mixed rubber asphalt"
 date: 2018-03-16
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio/IMG_4.jpg'>"
 collection: projects
 author_profile: false
 ---
