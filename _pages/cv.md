@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Actually this interface is primarily optimized for **desktop** and **large-screen devices**. While mobile browsers can automatically adapt the layout, the rendering quality is significantly compromised. Currently, I haven't had the time to develop dedicated responsive designs for mobile or small-screen devices.
+Actually this interface is primarily optimized for **desktop** or **large-screen devices**. While mobile browsers can automatically adapt the layout, the rendering quality is significantly compromised. Currently, I haven't had the time to develop dedicated responsive designs for mobile or small-screen devices.
 
 <h2 style="border-bottom: 1px solid #ddd; padding-bottom: 0.3em;">Education</h2>
 
@@ -101,26 +101,26 @@ Actually this interface is primarily optimized for **desktop** and **large-scree
 <h2 style="border-bottom: 1px solid #ddd; padding-bottom: 0.3em;">Honors and Competitions</h2>
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <strong>Third Prize in the GZHU Challenge Cup Entrepreneurship Plan Competition</strong>
+  Third Prize in the GZHU Challenge Cup Entrepreneurship Plan Competition
   <span>Fall 2021</span>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <strong>College Undergraduate Scholarship</strong>
+  College Undergraduate Scholarship
   <span>Summer 2021</span>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <strong>GZHU Annual Scientific Research Excellence Award</strong>
+  GZHU Annual Scientific Research Excellence Award
   <span>Fall 2020</span>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <strong>Excellence Award for Guangdong Undergraduate Innovation Program</strong>
+  Excellence Award for Guangdong Undergraduate Innovation Program
   <span>Fall 2020</span>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <strong>Best Student Cadre of College</strong>
+  Best Student Cadre of College
   <span>Summer 2019</span>
 </div>
